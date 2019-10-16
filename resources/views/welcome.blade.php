@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    <h1>WELCOME TO TIZSHOP</h1>
+                    <h1>WELCOME TO Dossor</h1>
                 </div>
             </div>
         </div>
